@@ -71,7 +71,7 @@ section {
     width: 50%;
 }
 
-#container-home > side {
+#container-home > aside {
     display: flex;
     justify-content: center;
     align-items: center;
