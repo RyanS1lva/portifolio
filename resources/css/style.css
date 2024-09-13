@@ -93,6 +93,7 @@ section {
 
 #container-about > div > p{
     line-height: 1.9rem;
+    text-align: justify;
 }
 
 #container-contacts {
@@ -101,7 +102,7 @@ section {
 }
 
 #container-contacts img {
-    height: 100px;
+    height: 75px;
 }
 
 #container-contacts h2{
